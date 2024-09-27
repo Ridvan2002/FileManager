@@ -40,6 +40,7 @@ I am considering the following improvements to enhance the functionality and use
   
 ## Contact
 Feel free to reach out to me for any questions or collaboration opportunities:
--**Ridvan Suleymanov**
--**Email**: ridvansuleymanov28@gmail.com 
--**LinkedIn**: https://www.linkedin.com/in/ridvan-suleymanov-profile/
+
+- **Name**: Ridvan Suleymanov
+- **Email**: [ridvansuleymanov28@gmail.com](mailto:ridvansuleymanov28@gmail.com)
+- **LinkedIn**: [Ridvan Suleymanov](https://www.linkedin.com/in/ridvan-suleymanov-profile/)
