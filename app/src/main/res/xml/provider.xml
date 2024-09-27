@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-path
+        name="files_root"
+        path="Android/data/${applicationId}"/>
+    <external-path
+        name="external_storage_root"
+        path="."/>
+
+    <external-path name="external_files" path="."/>
+
+    <files-path
+        name="int_files"
+        path="." />
+    <external-files-path
+        name="ext_files"
+        path="." />
+    <cache-path
+        name="int_cache"
+        path="." />
+    <external-cache-path
+        name="ext_cache"
+        path="." />
+
+</paths>
