@@ -25,7 +25,7 @@ To run this application locally, follow these steps:
 
 ## Project Documentation
 The following files for documentation are included:
-- **FileManager.docx**: Detailed documentation of the project's features, architecture, and implementation.
+- **FileManager.pdf**: Detailed documentation of the project's features, architecture, and implementation.
 - **FileManager.pptx**: A presentation that provides an overview of the project, its purpose, and key functionalities.
 - **FILE_MANAGER_PREVIEW.mp4**: A video demonstration of the application in action.
   
